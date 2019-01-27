@@ -1,6 +1,9 @@
 # taiwan_deep_travel
 Deep learning-based recommendation iOS APP for Taiwan tourist attractions
 
+Project Introduction:
+https://drive.google.com/open?id=1jVIqmMX-pC2RjTYeNqBoM_f7TmsX3xBu
+
 Video One: Input an image from your phone’s library
 https://drive.google.com/open?id=12gpiK051EgpDBCduiHqABSLXNAIjR66P
 
